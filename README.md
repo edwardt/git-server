@@ -23,7 +23,7 @@ How to Run
 2. Do `cd` into the directory where you have the scripts.
 3. Run `sudo git-server-install-p1.sh`.
 4. When prompted, type in a password for your new `git` user. Make this secure, but you will need it to add new repositories.
-5. Log in as the `git` user. Type the password thqt you just created.
+5. Log in as the `git` user. Type the password that you just created.
 6. Do `cd` into the directory where you have the scripts.
 7. Run `git-server-install-p2.sh`.
 8. Log out.
